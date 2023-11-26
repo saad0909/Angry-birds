@@ -15,3 +15,11 @@ path of game file: angry birds\DOSBoxPortable\abc.asm.
      Use Esc key to move on to next level immediately.
      Use arrow keys to move your player backwards in any direction.
    
+
+
+https://github.com/saad0909/Angry-birds/assets/33553848/5f4e6c5e-77cc-4c84-9fe2-57cb35157760
+
+6. To add new levels to game:
+   
+![strcu1](https://github.com/saad0909/Angry-birds/assets/33553848/356fc1c5-98be-422b-8ff1-362b6dfb9ca1)
+each line represents a level data. 0s and 1s are use to structre the building of enemy. 1 means brick is visible and 0 mean there is not brick. By just using 1s and 0s you can create another new level.
